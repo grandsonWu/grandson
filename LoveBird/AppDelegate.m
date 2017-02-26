@@ -11,6 +11,7 @@
 #import <Crashlytics/Crashlytics.h>
 #import <Quickblox/Quickblox.h>
 
+
 #define APP_ID 52032               //quickblox 創建ＩＤ
 #define APP_AUTH_KEY @"hv6bjf7-C4FE-St"
 #define APP_AUTH_SECRET @"tfFg2RuVa38Rc6u"
